@@ -1,4 +1,19 @@
 {
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*37cfc2a4-3eec-4792-958e-6005e8165245"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*d1107d32-da02-4c6a-bd5b-6452d82c779b"
+        }
+      ],
+      "id": "F1*816387e9-5370-4b38-9abf-4563838a116c"
+    }
+  ],
   "head": {
     "charset": {
       "value": "UTF-8"
@@ -21,10 +36,28 @@
   },
   "people": [
     {
+      "fams": [
+        {
+          "ref": "F1*816387e9-5370-4b38-9abf-4563838a116c"
+        }
+      ],
       "id": "I1*d1107d32-da02-4c6a-bd5b-6452d82c779b",
       "names": [
         {
           "value": "A //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*816387e9-5370-4b38-9abf-4563838a116c"
+        }
+      ],
+      "id": "I2*37cfc2a4-3eec-4792-958e-6005e8165245",
+      "names": [
+        {
+          "value": "B //"
         }
       ]
     }
