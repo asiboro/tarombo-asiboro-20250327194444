@@ -1,0 +1,22 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "19:44:38",
+      "value": "27 MAR 2025"
+    },
+    "file": "10.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Japanese",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.6 (a4f812b)"
+    }
+  }
+}
