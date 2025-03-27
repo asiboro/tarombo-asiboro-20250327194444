@@ -18,5 +18,15 @@
       "value": "TAROMBO",
       "vers": "0.5.6 (a4f812b)"
     }
-  }
+  },
+  "people": [
+    {
+      "id": "I1*d1107d32-da02-4c6a-bd5b-6452d82c779b",
+      "names": [
+        {
+          "value": "A //"
+        }
+      ]
+    }
+  ]
 }
